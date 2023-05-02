@@ -1,6 +1,6 @@
 ---
 title: Validators FAQs
-icon: ask
+icon: any
 dir:
   order: 8
 ---
