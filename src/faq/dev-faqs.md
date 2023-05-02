@@ -5,7 +5,7 @@ dir:
   order: 8
 ---
 
-# FAQ
+# BNB Greenfield - Dev FAQs
 
 ### Does Greenfield have a token? How can I get it?
 BNB remains the main utility token on Greenfield, no other token on Greenfield.
