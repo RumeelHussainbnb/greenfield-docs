@@ -1,5 +1,8 @@
 ---
-sidebar_label: Validators FAQs
+title: BNB Greenfield FAQs
+icon: ask
+dir:
+  order: 8
 ---
 # BNB Greenfield - Validators FAQs
 
