@@ -15,6 +15,6 @@ export const enNavbar = navbar([
      {
           text: "FAQs",
           icon: "ask",
-          link: "/faq/sp-faqs"
+          link: "/faq/"
      }
 ]);
