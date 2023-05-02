@@ -1,6 +1,6 @@
 ---
 title: Storage Provider FAQs
-icon: ask
+icon: list
 dir:
   order: 8
 ---
