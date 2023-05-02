@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Developer FAQ
 icon: ask
 dir:
   order: 8
