@@ -60,3 +60,6 @@ Testnet is used for testing, so it won't keep user's data for a long time. It is
 
 ### Where can I get Developer support?
 Check out the Greenfield Developer Discord for technical support. (pending...)
+
+### Don't see your question? 
+We're working on expanding this FAQ with more content, including questions from the community and partners, so please watch this space! However, if you don't see your question, please ask in the [BNB forum](https://forum.bnbchain.org/), so you can get the answers you need and make us aware of new FAQ items.
