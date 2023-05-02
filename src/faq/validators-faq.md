@@ -1,5 +1,5 @@
 ---
-title: BNB Greenfield FAQs
+title: Validators FAQs
 icon: ask
 dir:
   order: 8
