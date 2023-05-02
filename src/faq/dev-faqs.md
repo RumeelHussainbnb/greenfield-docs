@@ -1,6 +1,6 @@
 ---
 title: Developer FAQ
-icon: user
+icon: ask
 dir:
   order: 8
 ---
