@@ -1,5 +1,5 @@
 ---
-title: BNB Greenfield FAQs
+title: Storage Provider FAQs
 icon: ask
 dir:
   order: 8
